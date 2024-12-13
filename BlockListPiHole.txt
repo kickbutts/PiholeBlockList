@@ -75,4 +75,7 @@ vidiapart.ru
 zgames.com
 game.brawlstarsgame.com
 game-assets.brawlstarsgame.com
-brawlstars.inbox.supercell.com
+brawlstars.inbox.super
+id.supercell.com
+proxy.id.supercell.com
+inventory.mtech.supercell.com
